@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* font size */
+.fnt1{font-size: 20px !important;}
+
+/* img */
+.img1{background-image: url('img/hero-section-banner.jpg');height: 600px;background-position: center;width:100%;background-size: cover;}
+
+.div1{height: 600px;width: 100%;background-color: #0000008c;}
+
+/* button */
+.btn1{padding: 10px 25px;border-radius: 10px;border: none;background: rgb(212, 212, 20);color: white;}
